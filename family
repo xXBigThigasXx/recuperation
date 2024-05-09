@@ -51,14 +51,13 @@
     <main>
         <section>
             <h2>Sobre Minha Família</h2>
-            <p>A minha família é uma parte fundamental da minha vida. Somos unidos pelo amor, respeito e valores que nos
-                foram passados ao longo das gerações.</p>
-            <img src="familia.jpg" alt="Foto da minha família">
+            <p>A minha família é uma parte fundamental da minha vida. Em momentos de dificuldade eles sempre estarão lá.</p>
+            
         </section>
         <section>
             <h2>Histórico</h2>
-            <p>Nossa família tem suas raízes em [inserir breve histórico aqui]. Há [quantidade de anos] estamos no Brasil
-                e [quantidade de anos] em Londrina.</p>
+            <p>Nossa família tem suas raízes que vem da espanha, ja que todos os meus avôs e avós dos meus pais são espanhóis. Não sei ao certo a quanto 
+                tempo estamos no Brasil, mas deve ser uns 50 ou 60 anos, já em Londrina deve ser o mesmo.</p>
         </section>
         <section>
             <h2>Tradição no Ramo de Trabalho</h2>
@@ -67,23 +66,25 @@
         </section>
         <section>
             <h2>Integrantes da Família</h2>
-            <p>Nossa família é composta por [quantidade de integrantes]. Aqui estão alguns dos nossos membros:</p>
+            <p>Aqui estão alguns dos nossos membros que eu considero os mais importates para mim.:</p>
             <ul>
-                <li>[Nome 1] - [Descrição]</li>
-                <li>[Nome 2] - [Descrição]</li>
-                <!-- Adicione mais membros conforme necessário -->
+                <li>[Thiago] - [Eu]</li>
+                <li>[Alessandra] - [Minha Mãe]</li>
+                <li>[André] - [Meu Pai]</li>
+                <li>[Matheus] - [Meu irmão]</li>
+                <li>[Nathalia] - [Minha cunhada]</li>
+                <li>[Angela] - [Minha tia]</li>
+                <li>[Almir] - [Meu tio]</li>
+                <li>[Leonardo] - [Meu primo]</li>
+                <li>[Lorena] - [Minha prima]</li>
+                <li>[Tereza] - [Minha vó, descanse em paz]</li>
+                <li>[Carlos] - [Meu vô, chato]</li>
             </ul>
         </section>
-        <section>
-            <h2>Fotos</h2>
-            <p>Aqui estão algumas fotos da nossa família:</p>
-            <img src="foto1.jpg" alt="Foto da família">
-            <img src="foto2.jpg" alt="Foto da família">
-            <!-- Adicione mais fotos conforme necessário -->
-        </section>
+
         <section>
             <h2>Curiosidades</h2>
-            <p>[Inserir curiosidades sobre a família aqui.]</p>
+            <p>Uma curiosidade é que minha familia parece um battle royale, metade e metade se odeia.</p>
         </section>
     </main>
     <footer>
